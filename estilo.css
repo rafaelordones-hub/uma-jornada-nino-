@@ -1,6 +1,7 @@
 body{
     background-color: darkslategray;
     color: white;
+    display: flex;
 }
 
 .img01{
