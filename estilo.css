@@ -2,8 +2,10 @@ body{
     background-color: darkslategray;
     color: white;
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .img01{
-    width: 85%;
+    width: 60%;
 }
